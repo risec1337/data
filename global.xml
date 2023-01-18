@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <global>
 <id >
-<link>http://seotolkit.site/</link>
-<deskripsi>SEOTOLKIT merupakan alat gratis yang powerfull, alat ini dibuat untuk membantu para pekerja influncer atau pekerja kantoran.</deskripsi>
-<tag>#seo #tolkit #keyword</tag>
+<link>https://analytics.withgoogle.com</link>
+<deskripsi>Google Analytics adalah sebuah layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web.</deskripsi>
+<tag>#google #statistik #Analytics</tag>
 </id>
 
 <id >
-<link>https://search.google.com/u/7/search-console/</link>
-<deskripsi>Google Search Console merupakan layanan gratis yang disediakan oleh Google untuk para webmaster. Layanan ini berfungsi untuk meningkatkan keterlihatan situs di hasil pencarian Google dan menampilkan laporan status indeks pada web yang didaftarkan.</deskripsi>
-<tag>#google #search #Console</tag>
+<link>https://datastudio.google.com/</link>
+<deskripsi>Google Data Studio adalah sebuah Google tools yang digunakan untuk analisa data secara gratis.</deskripsi>
+<tag>#google #data #studio</tag>
 </id>
 
 <id >
-<link>https://ads.google.com/intl/id_id/home/tools/keyword-planner</link>
+<link>https://ads.google.com/intl/</link>
 <deskripsi>Kata kunci yang tepat dapat membuat iklan Anda ditampilkan kepada pelanggan yang tepat, dan Keyword Planner Google Ads siap membantu Anda.</deskripsi>
 <tag>#google #keyword #ads</tag>
 </id>
@@ -22,6 +22,12 @@
 <link>https://trends.google.co.id/trends/</link>
 <deskripsi>Google Trends adalah tools dari Google yang dapat dimanfaatkan dan digunakan untuk melakukan pencarian topik ataupun melakukan riset kata kunci  yang sedang populer. Selain itu Google Trends memiliki tampilan yang sederhana yang cukup informatif dan dapat digunakan secara gratis.</deskripsi>
 <tag>#google #trends</tag>
+</id>
+
+<id >
+<link>https://search.google.com/u/7/search-console/</link>
+<deskripsi>Google Search Console merupakan layanan gratis yang disediakan oleh Google untuk para webmaster. Layanan ini berfungsi untuk meningkatkan keterlihatan situs di hasil pencarian Google dan menampilkan laporan status indeks pada web yang didaftarkan.</deskripsi>
+<tag>#google #search #Console</tag>
 </id>
 
 </global>
